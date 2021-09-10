@@ -5,5 +5,6 @@
     <body>
         <p>bla b2 c</p>
         <p>da</p>
+        <p audience="-\- abc">trei</p>
     </body>
 </topic>

@@ -10,14 +10,6 @@
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
-                        <String>PLUGIN_CUSTOM_OPTIONS.custom.contributor.type.value</String>
-                        <String>c</String>
-                    </entry>
-                    <entry>
-                        <String>PLUGIN_CUSTOM_OPTIONS.custom.creator.type.value</String>
-                        <String>b</String>
-                    </entry>
-                    <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.limit.revised.elements</String>
                         <String>false</String>
                     </entry>
@@ -27,7 +19,7 @@
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.prolog.updater.author.name</String>
-                        <String>a</String>
+                        <String>irina_nadolu</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.prolog.updater.date.format</String>
