@@ -12,7 +12,7 @@
     </prolog>
    
     <body>
-        <p>Prim paragraf</p>
-        <p>bla</p>
+        <p id="1">Prim paragraf</p>
+        <p id="2">bla</p>
     </body>
 </topic>
