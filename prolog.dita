@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="prolog">
+    <title>Prolog</title>
+    <prolog>
+        <author type="owner">Irina</author>
+        <critdates>
+            <created date="2021/09/10"/>
+            <!--Irina-->
+            <revised modified="2021/09/10"/>
+        </critdates>
+    </prolog>
+   
+    <body>
+        <p id="1">Prim paragraf</p>
+        <p id="2">bla</p>
+        <p>ac</p>
+    </body>
+</topic>
