@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="unu">
+    <title>unu</title>
+    <body>
+        <p><xref href="prolog.dita#prolog/1">Un prim paragraf din prolog.dit</xref></p>
+    </body>
+</topic>
