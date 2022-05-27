@@ -16,6 +16,7 @@
     <projectTree name="newProject.xpr">
         <folder masterFiles="true" name="Main Files">
             <file name="m.ditamap"/>
+            <file name="prolog.dita"/>
         </folder>
         <folder path="."/>
     </projectTree>
