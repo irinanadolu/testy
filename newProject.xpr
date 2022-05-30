@@ -19,11 +19,11 @@
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.reject</String>
-                        <String>true</String>
+                        <String>false</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.validate</String>
-                        <String>false</String>
+                        <String>true</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.reject</String>
