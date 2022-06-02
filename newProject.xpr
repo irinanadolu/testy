@@ -41,6 +41,18 @@
                         <String>enable.project.master.files.support</String>
                         <Boolean>true</Boolean>
                     </entry>
+                    <entry>
+                        <String>key.dictionaries.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>spell.check.learned.words.custom.folder</String>
+                        <String>${git(working_copy_path)}\DITA\learnedWords</String>
+                    </entry>
+                    <entry>
+                        <String>spell.check.load.learned.words.from.default.folder</String>
+                        <Boolean>false</Boolean>
+                    </entry>
                 </serializableOrderedMap>
             </serialized>
         </options>
