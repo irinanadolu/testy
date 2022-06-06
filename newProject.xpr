@@ -6,6 +6,14 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>Git_client_plugin_preferences_page</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>key.dictionaries.option.pane</String>
                         <Boolean>true</Boolean>
                     </entry>
@@ -22,6 +30,9 @@
         </options>
     </meta>
     <projectTree name="newProject.xpr">
+        <folder masterFiles="true" name="Main Files">
+            <file name="prolog.dita"/>
+        </folder>
         <folder path="."/>
     </projectTree>
 </project>
