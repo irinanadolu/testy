@@ -7,7 +7,35 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>Git_client_plugin_preferences_page</String>
-                        <Boolean>false</Boolean>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.notify.about.new.remote.commits</String>
+                        <String>false</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.update.submodules.on.pull</String>
+                        <String>true</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.reject</String>
+                        <String>false</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.validate</String>
+                        <String>true</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.reject</String>
+                        <String>false</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.validate</String>
+                        <String>false</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.when.repo.detected.in.project</String>
+                        <String>ASK_TO_SWITCH_TO_WC</String>
                     </entry>
                     <entry>
                         <String>enable.project.master.files.support</String>
