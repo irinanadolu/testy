@@ -23,7 +23,7 @@
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.validate</String>
-                        <String>true</String>
+                        <String>false</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.reject</String>
@@ -31,7 +31,7 @@
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.validate</String>
-                        <String>false</String>
+                        <String>true</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.when.repo.detected.in.project</String>
