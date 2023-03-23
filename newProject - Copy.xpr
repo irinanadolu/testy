@@ -10,6 +10,14 @@
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.ask.user.to.create.repo</String>
+                        <String>false</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.detect.and.open.xpr.files</String>
+                        <String>true</String>
+                    </entry>
+                    <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.notify.about.new.remote.commits</String>
                         <String>false</String>
                     </entry>
@@ -23,7 +31,7 @@
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.push.validate</String>
-                        <String>false</String>
+                        <String>true</String>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.validator.reject</String>
@@ -67,7 +75,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="newProject.xpr">
+    <projectTree name="newProject%20-%20Copy.xpr">
         <folder masterFiles="true" name="Main Files">
             <file name="prolog.dita"/>
         </folder>
