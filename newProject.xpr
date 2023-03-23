@@ -7,7 +7,7 @@
                 <serializableOrderedMap>
                     <entry>
                         <String>Git_client_plugin_preferences_page</String>
-                        <Boolean>true</Boolean>
+                        <Boolean>false</Boolean>
                     </entry>
                     <entry>
                         <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.git.notify.about.new.remote.commits</String>
